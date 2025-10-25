@@ -1,0 +1,5 @@
+{
+  "name": "Image Analysis Tool",
+  "description": "An application that takes an image from a user, then displays it again based on the fundamentals of image analysis, without using artificial intelligence.",
+  "requestFramePermissions": []
+}
